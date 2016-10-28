@@ -15,4 +15,6 @@ This is a simple login walk through guide
 
 <b>HomeController</b> <br>
 <img src="https://github.com/moderateepheezy/WalkThroughDemo/blob/master/Screen%20Shot%202016-10-28%20at%2010.10.46%20AM.png" />
+Replace Home controller with yours.
+
 
